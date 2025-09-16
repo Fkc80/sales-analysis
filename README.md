@@ -54,3 +54,9 @@ sales-analysis/
 "# sales-analysis" 
 ---
 Author: Feyza
+## Charts
+
+![Category Sales](results/charts/category_sales.png)
+![Top 10 Cities](results/charts/city_sales_top10.png)
+![Monthly Sales Trend](results/charts/monthly_sales_trend.png)
+![Category Profit](results/charts/category_profit.png)
