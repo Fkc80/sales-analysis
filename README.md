@@ -52,3 +52,5 @@ sales-analysis/
 └─ requirements.txt
 ```"# sales-analysis" 
 "# sales-analysis" 
+---
+Author: Feyza
