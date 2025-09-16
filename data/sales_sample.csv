@@ -1,0 +1,251 @@
+OrderID,OrderDate,Country,City,Segment,Category,SubCategory,ProductName,Quantity,Discount,Sales,Profit
+DE-20230817-0001,2023-08-17,DE,München,Corporate,Office Supplies,Storage,Storage #3286,3,0.0,84.69,17.71
+DE-20240827-0002,2024-08-27,DE,München,Consumer,Furniture,Supplies,Supplies #7912,2,0.05,622.42,104.56
+DE-20230827-0003,2023-08-27,DE,Berlin,Corporate,Office Supplies,Paper,Paper #9279,5,0.05,11.57,0.47
+DE-20241027-0004,2024-10-27,DE,Bremen,Corporate,Office Supplies,Labels,Labels #9928,6,0.05,66.03,12.62
+DE-20230107-0005,2023-01-07,DE,Düsseldorf,Home Office,Office Supplies,Art,Art #3615,3,0.0,30.27,5.89
+DE-20230809-0006,2023-08-09,DE,Düsseldorf,Corporate,Technology,Copiers,Copiers #6514,1,0.05,195.57,21.3
+DE-20240103-0007,2024-01-03,DE,München,Consumer,Office Supplies,Art,Art #6635,4,0.0,52.91,10.09
+DE-20240703-0008,2024-07-03,DE,Bremen,Small Business,Technology,Phones,Phones #3045,1,0.15,637.88,64.67
+DE-20241005-0009,2024-10-05,DE,Düsseldorf,Home Office,Office Supplies,Labels,Labels #6925,2,0.05,33.78,5.85
+DE-20241108-0010,2024-11-08,DE,Bremen,Consumer,Office Supplies,Paper,Paper #4733,2,0.0,22.6,3.43
+DE-20240125-0011,2024-01-25,DE,Köln,Consumer,Office Supplies,Binders,Binders #5554,4,0.0,119.7,24.5
+DE-20240115-0012,2024-01-15,DE,Leipzig,Corporate,Furniture,Bookcases,Bookcases #6820,4,0.15,339.33,51.27
+DE-20240915-0013,2024-09-15,DE,Stuttgart,Consumer,Furniture,Bookcases,Bookcases #3803,4,0.0,423.37,74.76
+DE-20240418-0014,2024-04-18,DE,Dortmund,Corporate,Furniture,Tables,Tables #7216,5,0.0,326.16,58.66
+DE-20241202-0015,2024-12-02,DE,Köln,Corporate,Furniture,Supplies,Supplies #6313,1,0.0,158.25,28.08
+DE-20240215-0016,2024-02-15,DE,Berlin,Home Office,Office Supplies,Paper,Paper #5386,5,0.0,220.19,46.83
+DE-20230806-0017,2023-08-06,DE,München,Home Office,Office Supplies,Labels,Labels #9179,4,0.0,138.2,30.16
+DE-20230929-0018,2023-09-29,DE,Düsseldorf,Corporate,Furniture,Furnishings,Furnishings #3287,3,0.0,542.28,95.97
+DE-20240821-0019,2024-08-21,DE,Stuttgart,Home Office,Furniture,Supplies,Supplies #8019,1,0.15,231.02,34.91
+DE-20230522-0020,2023-05-22,DE,Bremen,Corporate,Technology,Copiers,Copiers #9348,3,0.05,796.88,90.34
+DE-20230606-0021,2023-06-06,DE,Leipzig,Consumer,Office Supplies,Paper,Paper #3621,1,0.15,13.48,2.45
+DE-20240126-0022,2024-01-26,DE,Düsseldorf,Small Business,Furniture,Chairs,Chairs #8668,2,0.0,748.12,132.69
+DE-20241127-0023,2024-11-27,DE,Dortmund,Consumer,Technology,Printers,Printers #2876,4,0.05,730.27,81.28
+DE-20231028-0024,2023-10-28,DE,Dortmund,Consumer,Technology,Copiers,Copiers #8123,1,0.0,471.7,56.23
+DE-20240527-0025,2024-05-27,DE,Hamburg,Home Office,Technology,Phones,Phones #3927,3,0.05,171.68,17.69
+DE-20230606-0026,2023-06-06,DE,Dortmund,Corporate,Office Supplies,Storage,Storage #7126,1,0.0,18.86,3.92
+DE-20240905-0027,2024-09-05,DE,Hamburg,Consumer,Furniture,Supplies,Supplies #6310,4,0.15,1103.42,167.03
+DE-20231111-0028,2023-11-11,DE,Leipzig,Home Office,Office Supplies,Paper,Paper #4923,1,0.0,36.39,6.29
+DE-20230329-0029,2023-03-29,DE,Berlin,Consumer,Office Supplies,Labels,Labels #8962,4,0.15,151.17,28.25
+DE-20241106-0030,2024-11-06,DE,München,Corporate,Furniture,Tables,Tables #8787,2,0.0,80.28,13.48
+DE-20230805-0031,2023-08-05,DE,Dortmund,Small Business,Office Supplies,Storage,Storage #9835,3,0.0,24.85,4.15
+DE-20241118-0032,2024-11-18,DE,Stuttgart,Small Business,Furniture,Bookcases,Bookcases #7118,2,0.15,409.75,61.51
+DE-20230911-0033,2023-09-11,DE,Leipzig,Consumer,Furniture,Furnishings,Furnishings #4681,2,0.0,439.68,78.75
+DE-20240825-0034,2024-08-25,DE,München,Corporate,Technology,Phones,Phones #4608,3,0.0,670.7,78.49
+DE-20230311-0035,2023-03-11,DE,Berlin,Corporate,Office Supplies,Paper,Paper #1514,1,0.15,35.55,4.71
+DE-20231013-0036,2023-10-13,DE,Frankfurt,Corporate,Office Supplies,Labels,Labels #8953,2,0.0,78.43,16.62
+DE-20230906-0037,2023-09-06,DE,Stuttgart,Small Business,Furniture,Tables,Tables #8749,3,0.15,842.45,128.18
+DE-20241105-0038,2024-11-05,DE,Düsseldorf,Consumer,Office Supplies,Paper,Paper #8062,1,0.0,13.46,1.56
+DE-20230225-0039,2023-02-25,DE,Frankfurt,Small Business,Technology,Machines,Machines #2612,1,0.0,581.78,69.8
+DE-20230912-0040,2023-09-12,DE,Berlin,Consumer,Technology,Copiers,Copiers #4139,1,0.15,159.84,14.52
+DE-20240308-0041,2024-03-08,DE,Stuttgart,Corporate,Furniture,Furnishings,Furnishings #4006,1,0.15,58.78,8.42
+DE-20240329-0042,2024-03-29,DE,Köln,Consumer,Technology,Accessories,Accessories #2604,1,0.15,76.58,6.74
+DE-20230406-0043,2023-04-06,DE,Berlin,Consumer,Furniture,Supplies,Supplies #4872,4,0.05,1154.18,196.54
+DE-20230807-0044,2023-08-07,DE,Hamburg,Small Business,Technology,Machines,Machines #7570,1,0.0,150.16,17.37
+DE-20240204-0045,2024-02-04,DE,Berlin,Consumer,Office Supplies,Art,Art #5345,1,0.0,22.21,3.51
+DE-20230608-0046,2023-06-08,DE,Leipzig,Small Business,Technology,Machines,Machines #4111,4,0.15,2151.35,218.01
+DE-20231118-0047,2023-11-18,DE,Köln,Consumer,Office Supplies,Paper,Paper #1936,1,0.0,41.48,8.63
+DE-20230228-0048,2023-02-28,DE,Berlin,Corporate,Furniture,Furnishings,Furnishings #9320,4,0.1,174.33,28.05
+DE-20241122-0049,2024-11-22,DE,München,Consumer,Office Supplies,Paper,Paper #4853,4,0.15,55.45,9.1
+DE-20240815-0050,2024-08-15,DE,Düsseldorf,Corporate,Office Supplies,Labels,Labels #1651,4,0.0,15.64,2.36
+DE-20230925-0051,2023-09-25,DE,Bremen,Home Office,Office Supplies,Art,Art #4346,4,0.05,165.24,33.38
+DE-20230515-0052,2023-05-15,DE,Frankfurt,Small Business,Office Supplies,Storage,Storage #5915,6,0.1,106.9,19.91
+DE-20240414-0053,2024-04-14,DE,Leipzig,Consumer,Technology,Phones,Phones #2638,4,0.1,813.29,87.65
+DE-20230516-0054,2023-05-16,DE,München,Home Office,Furniture,Tables,Tables #6718,5,0.0,1076.92,193.16
+DE-20230611-0055,2023-06-11,DE,München,Home Office,Office Supplies,Storage,Storage #8179,2,0.0,51.66,9.76
+DE-20241114-0056,2024-11-14,DE,Dortmund,Consumer,Furniture,Bookcases,Bookcases #5905,1,0.0,440.01,77.74
+DE-20230420-0057,2023-04-20,DE,München,Consumer,Office Supplies,Storage,Storage #3546,2,0.1,46.75,7.78
+DE-20231218-0058,2023-12-18,DE,Köln,Corporate,Technology,Printers,Printers #4335,1,0.0,270.37,31.8
+DE-20230222-0059,2023-02-22,DE,Köln,Home Office,Furniture,Furnishings,Furnishings #2512,2,0.15,163.29,23.63
+DE-20231208-0060,2023-12-08,DE,Düsseldorf,Consumer,Technology,Phones,Phones #3143,4,0.05,1191.53,135.18
+DE-20240728-0061,2024-07-28,DE,Köln,Small Business,Office Supplies,Art,Art #1158,5,0.15,168.15,30.34
+DE-20240114-0062,2024-01-14,DE,München,Consumer,Office Supplies,Binders,Binders #3426,4,0.05,70.24,13.3
+DE-20240109-0063,2024-01-09,DE,Düsseldorf,Home Office,Office Supplies,Paper,Paper #1653,3,0.0,103.52,21.36
+DE-20231229-0064,2023-12-29,DE,Frankfurt,Consumer,Office Supplies,Binders,Binders #7658,3,0.0,15.46,1.64
+DE-20230616-0065,2023-06-16,DE,Bremen,Corporate,Furniture,Tables,Tables #3900,3,0.05,1146.12,194.87
+DE-20240226-0066,2024-02-26,DE,Düsseldorf,Home Office,Office Supplies,Binders,Binders #5065,2,0.1,37.97,6.71
+DE-20230209-0067,2023-02-09,DE,Köln,Small Business,Office Supplies,Paper,Paper #8711,6,0.05,206.42,41.22
+DE-20231109-0068,2023-11-09,DE,Stuttgart,Home Office,Office Supplies,Art,Art #4728,3,0.15,47.13,7.21
+DE-20231203-0069,2023-12-03,DE,Stuttgart,Small Business,Office Supplies,Binders,Binders #5564,3,0.05,50.31,9.41
+DE-20241126-0070,2024-11-26,DE,München,Small Business,Technology,Copiers,Copiers #9785,3,0.0,1123.26,133.54
+DE-20230702-0071,2023-07-02,DE,Frankfurt,Home Office,Office Supplies,Paper,Paper #5349,4,0.05,17.4,3.42
+DE-20231220-0072,2023-12-20,DE,Berlin,Small Business,Office Supplies,Labels,Labels #6139,3,0.05,44.99,8.24
+DE-20240130-0073,2024-01-30,DE,Düsseldorf,Consumer,Furniture,Supplies,Supplies #4114,1,0.1,134.7,19.94
+DE-20240616-0074,2024-06-16,DE,Köln,Consumer,Office Supplies,Art,Art #9821,3,0.15,49.48,7.52
+DE-20241111-0075,2024-11-11,DE,Stuttgart,Consumer,Technology,Machines,Machines #6409,5,0.15,673.11,67.0
+DE-20240603-0076,2024-06-03,DE,Bremen,Home Office,Technology,Phones,Phones #6067,2,0.1,159.7,17.13
+DE-20240721-0077,2024-07-21,DE,Düsseldorf,Home Office,Technology,Machines,Machines #3085,3,0.1,2028.98,217.62
+DE-20240922-0078,2024-09-22,DE,Stuttgart,Corporate,Technology,Machines,Machines #5930,3,0.1,534.33,56.5
+DE-20231021-0079,2023-10-21,DE,Düsseldorf,Home Office,Furniture,Chairs,Chairs #4443,4,0.0,406.38,72.2
+DE-20240421-0080,2024-04-21,DE,Düsseldorf,Home Office,Furniture,Supplies,Supplies #8238,1,0.15,494.65,73.93
+DE-20230623-0081,2023-06-23,DE,Leipzig,Small Business,Furniture,Tables,Tables #2389,1,0.0,361.53,63.27
+DE-20230406-0082,2023-04-06,DE,Köln,Home Office,Furniture,Supplies,Supplies #4848,2,0.0,697.63,125.39
+DE-20230126-0083,2023-01-26,DE,Köln,Corporate,Office Supplies,Binders,Binders #1757,3,0.0,60.68,11.45
+DE-20240411-0084,2024-04-11,DE,Stuttgart,Consumer,Technology,Printers,Printers #7790,6,0.1,3282.1,352.51
+DE-20240214-0085,2024-02-14,DE,Bremen,Small Business,Office Supplies,Art,Art #4997,1,0.0,24.47,5.11
+DE-20240311-0086,2024-03-11,DE,Hamburg,Consumer,Furniture,Chairs,Chairs #4585,2,0.0,465.29,82.72
+DE-20230221-0087,2023-02-21,DE,Hamburg,Small Business,Furniture,Supplies,Supplies #5082,3,0.15,598.77,91.43
+DE-20241114-0088,2024-11-14,DE,München,Small Business,Technology,Accessories,Accessories #9702,3,0.15,918.73,93.05
+DE-20240919-0089,2024-09-19,DE,Dortmund,Small Business,Furniture,Bookcases,Bookcases #9270,1,0.1,260.79,42.24
+DE-20240501-0090,2024-05-01,DE,Düsseldorf,Corporate,Furniture,Furnishings,Furnishings #8373,2,0.15,752.8,114.71
+DE-20241003-0091,2024-10-03,DE,Köln,Small Business,Office Supplies,Storage,Storage #4919,3,0.0,82.84,16.43
+DE-20230829-0092,2023-08-29,DE,Köln,Home Office,Technology,Phones,Phones #5451,6,0.0,2126.34,254.37
+DE-20230522-0093,2023-05-22,DE,Frankfurt,Consumer,Technology,Printers,Printers #3471,3,0.15,1001.4,101.9
+DE-20230307-0094,2023-03-07,DE,Stuttgart,Corporate,Technology,Accessories,Accessories #7797,2,0.1,855.92,91.48
+DE-20240301-0095,2024-03-01,DE,Düsseldorf,Small Business,Technology,Printers,Printers #2020,6,0.1,2266.04,244.01
+DE-20240812-0096,2024-08-12,DE,Stuttgart,Consumer,Technology,Machines,Machines #7232,4,0.1,1740.97,186.16
+DE-20240204-0097,2024-02-04,DE,Leipzig,Home Office,Office Supplies,Storage,Storage #7865,2,0.0,62.94,13.69
+DE-20240514-0098,2024-05-14,DE,Dortmund,Corporate,Furniture,Supplies,Supplies #4595,1,0.0,459.24,81.51
+DE-20240203-0099,2024-02-03,DE,Köln,Consumer,Technology,Machines,Machines #6507,2,0.0,1063.64,127.08
+DE-20230511-0100,2023-05-11,DE,Düsseldorf,Small Business,Furniture,Tables,Tables #9751,3,0.0,582.34,103.35
+DE-20230327-0101,2023-03-27,DE,Berlin,Consumer,Technology,Printers,Printers #8022,6,0.1,693.68,73.85
+DE-20230924-0102,2023-09-24,DE,Hamburg,Consumer,Technology,Accessories,Accessories #7211,3,0.05,648.27,73.5
+DE-20231212-0103,2023-12-12,DE,Frankfurt,Home Office,Office Supplies,Art,Art #7211,1,0.15,7.58,0.59
+DE-20240426-0104,2024-04-26,DE,Köln,Consumer,Technology,Copiers,Copiers #1317,3,0.15,2002.8,202.42
+DE-20241027-0105,2024-10-27,DE,Dortmund,Corporate,Office Supplies,Storage,Storage #2124,4,0.1,135.14,26.35
+DE-20230121-0106,2023-01-21,DE,Berlin,Corporate,Office Supplies,Binders,Binders #3496,2,0.0,18.07,2.16
+DE-20240731-0107,2024-07-31,DE,Stuttgart,Consumer,Office Supplies,Art,Art #4571,4,0.1,130.81,25.3
+DE-20230621-0108,2023-06-21,DE,Leipzig,Home Office,Furniture,Bookcases,Bookcases #2876,1,0.0,171.76,29.83
+DE-20231116-0109,2023-11-16,DE,Hamburg,Consumer,Technology,Phones,Phones #7149,3,0.05,1701.53,192.39
+DE-20240829-0110,2024-08-29,DE,Düsseldorf,Consumer,Furniture,Tables,Tables #4978,4,0.15,2051.26,312.34
+DE-20240802-0111,2024-08-02,DE,München,Consumer,Furniture,Bookcases,Bookcases #1672,4,0.0,1544.91,277.4
+DE-20230312-0112,2023-03-12,DE,Frankfurt,Home Office,Furniture,Furnishings,Furnishings #9289,4,0.1,1611.41,259.97
+DE-20230419-0113,2023-04-19,DE,Frankfurt,Small Business,Office Supplies,Art,Art #8102,1,0.0,33.51,6.87
+DE-20240321-0114,2024-03-21,DE,Frankfurt,Corporate,Furniture,Furnishings,Furnishings #3885,2,0.0,984.47,175.31
+DE-20240421-0115,2024-04-21,DE,Dortmund,Small Business,Furniture,Bookcases,Bookcases #8136,3,0.05,168.43,28.6
+DE-20230330-0116,2023-03-30,DE,Bremen,Corporate,Technology,Copiers,Copiers #5569,1,0.0,530.78,62.54
+DE-20231211-0117,2023-12-11,DE,Leipzig,Small Business,Office Supplies,Art,Art #1470,1,0.15,31.04,5.33
+DE-20230806-0118,2023-08-06,DE,Leipzig,Small Business,Technology,Accessories,Accessories #6813,6,0.15,914.53,92.24
+DE-20240723-0119,2024-07-23,DE,Köln,Home Office,Technology,Copiers,Copiers #1166,1,0.0,211.25,25.12
+DE-20240221-0120,2024-02-21,DE,Dortmund,Corporate,Office Supplies,Paper,Paper #9004,6,0.0,110.74,22.89
+DE-20240403-0121,2024-04-03,DE,Dortmund,Small Business,Office Supplies,Art,Art #1282,1,0.15,20.14,3.7
+DE-20241209-0122,2024-12-09,DE,München,Small Business,Technology,Accessories,Accessories #4986,2,0.0,925.98,109.79
+DE-20240429-0123,2024-04-29,DE,Köln,Home Office,Furniture,Supplies,Supplies #9698,2,0.1,584.63,93.92
+DE-20231227-0124,2023-12-27,DE,Frankfurt,Home Office,Technology,Printers,Printers #8434,1,0.0,509.71,61.09
+DE-20230504-0125,2023-05-04,DE,Köln,Corporate,Technology,Copiers,Copiers #4155,8,0.05,4030.83,458.55
+DE-20230716-0126,2023-07-16,DE,Frankfurt,Corporate,Office Supplies,Labels,Labels #4545,1,0.0,20.89,3.85
+DE-20230413-0127,2023-04-13,DE,Leipzig,Home Office,Technology,Printers,Printers #4180,4,0.1,285.22,29.99
+DE-20231106-0128,2023-11-06,DE,Köln,Corporate,Office Supplies,Storage,Storage #1231,1,0.15,24.15,3.84
+DE-20230225-0129,2023-02-25,DE,Dortmund,Consumer,Office Supplies,Storage,Storage #5786,4,0.15,110.83,19.06
+DE-20230113-0130,2023-01-13,DE,Hamburg,Consumer,Furniture,Furnishings,Furnishings #5658,3,0.0,398.02,71.62
+DE-20230708-0131,2023-07-08,DE,Leipzig,Home Office,Technology,Machines,Machines #1841,1,0.0,488.52,57.9
+DE-20240215-0132,2024-02-15,DE,Köln,Consumer,Technology,Phones,Phones #9056,6,0.0,3443.05,412.29
+DE-20230602-0133,2023-06-02,DE,München,Corporate,Furniture,Chairs,Chairs #5978,3,0.15,1379.44,210.11
+DE-20240912-0134,2024-09-12,DE,München,Small Business,Office Supplies,Paper,Paper #4697,2,0.0,20.03,3.14
+DE-20231101-0135,2023-11-01,DE,Dortmund,Small Business,Technology,Machines,Machines #8025,1,0.1,562.74,60.74
+DE-20240916-0136,2024-09-16,DE,Köln,Consumer,Furniture,Supplies,Supplies #2625,2,0.0,599.54,107.11
+DE-20241107-0137,2024-11-07,DE,Stuttgart,Home Office,Furniture,Tables,Tables #2330,6,0.0,948.36,169.51
+DE-20230610-0138,2023-06-10,DE,Hamburg,Consumer,Office Supplies,Binders,Binders #1043,2,0.0,58.29,12.02
+DE-20231026-0139,2023-10-26,DE,Düsseldorf,Small Business,Technology,Printers,Printers #1534,2,0.0,1070.33,127.95
+DE-20230314-0140,2023-03-14,DE,Stuttgart,Small Business,Technology,Copiers,Copiers #4824,5,0.0,1164.7,137.87
+DE-20240311-0141,2024-03-11,DE,Köln,Corporate,Furniture,Supplies,Supplies #2880,4,0.0,697.32,124.33
+DE-20230526-0142,2023-05-26,DE,Dortmund,Home Office,Office Supplies,Binders,Binders #2169,2,0.0,7.91,0.79
+DE-20240325-0143,2024-03-25,DE,Berlin,Home Office,Office Supplies,Storage,Storage #3037,1,0.0,18.36,2.4
+DE-20231006-0144,2023-10-06,DE,Leipzig,Small Business,Furniture,Bookcases,Bookcases #9199,1,0.0,177.92,31.4
+DE-20240904-0145,2024-09-04,DE,Dortmund,Consumer,Technology,Machines,Machines #1653,4,0.1,440.58,46.06
+DE-20230127-0146,2023-01-27,DE,Düsseldorf,Home Office,Furniture,Bookcases,Bookcases #2496,5,0.05,2875.21,491.22
+DE-20241119-0147,2024-11-19,DE,Stuttgart,Consumer,Furniture,Supplies,Supplies #5415,4,0.0,832.51,149.01
+DE-20240615-0148,2024-06-15,DE,Bremen,Small Business,Office Supplies,Binders,Binders #8245,3,0.0,100.2,20.39
+DE-20241012-0149,2024-10-12,DE,Köln,Small Business,Office Supplies,Labels,Labels #9056,3,0.0,35.73,6.41
+DE-20231208-0150,2023-12-08,DE,München,Small Business,Technology,Copiers,Copiers #6260,2,0.0,508.13,59.5
+DE-20241211-0151,2024-12-11,DE,München,Small Business,Office Supplies,Storage,Storage #9117,1,0.0,42.27,7.55
+DE-20240410-0152,2024-04-10,DE,Köln,Consumer,Furniture,Furnishings,Furnishings #2442,4,0.05,1954.7,334.15
+DE-20240218-0153,2024-02-18,DE,Frankfurt,Consumer,Technology,Copiers,Copiers #9431,8,0.05,2154.43,244.13
+DE-20240228-0154,2024-02-28,DE,Berlin,Small Business,Furniture,Supplies,Supplies #1888,1,0.05,200.32,32.82
+DE-20241002-0155,2024-10-02,DE,Stuttgart,Small Business,Furniture,Bookcases,Bookcases #8242,1,0.05,91.94,15.29
+DE-20231022-0156,2023-10-22,DE,Berlin,Corporate,Office Supplies,Storage,Storage #8178,4,0.15,156.25,28.02
+DE-20241227-0157,2024-12-27,DE,Leipzig,Corporate,Office Supplies,Paper,Paper #3594,2,0.15,39.67,6.96
+DE-20230406-0158,2023-04-06,DE,Köln,Small Business,Furniture,Chairs,Chairs #4681,3,0.15,427.79,63.85
+DE-20240525-0159,2024-05-25,DE,München,Corporate,Technology,Phones,Phones #5781,1,0.0,370.2,42.91
+DE-20240509-0160,2024-05-09,DE,Dortmund,Small Business,Furniture,Bookcases,Bookcases #8736,4,0.1,1606.87,259.24
+DE-20240128-0161,2024-01-28,DE,Stuttgart,Corporate,Technology,Printers,Printers #4122,6,0.0,3000.22,359.94
+DE-20231010-0162,2023-10-10,DE,Bremen,Consumer,Furniture,Tables,Tables #7798,6,0.0,1354.25,243.59
+DE-20231017-0163,2023-10-17,DE,Frankfurt,Consumer,Furniture,Bookcases,Bookcases #5891,1,0.05,247.81,42.16
+DE-20240402-0164,2024-04-02,DE,Bremen,Corporate,Furniture,Furnishings,Furnishings #9824,1,0.15,79.56,10.99
+DE-20240411-0165,2024-04-11,DE,Leipzig,Small Business,Technology,Copiers,Copiers #6272,2,0.0,840.47,99.12
+DE-20230828-0166,2023-08-28,DE,Stuttgart,Small Business,Furniture,Tables,Tables #7730,5,0.1,569.04,90.79
+DE-20240131-0167,2024-01-31,DE,Berlin,Small Business,Technology,Machines,Machines #3492,5,0.0,797.02,93.88
+DE-20230413-0168,2023-04-13,DE,Leipzig,Home Office,Office Supplies,Binders,Binders #8213,6,0.0,15.45,1.76
+DE-20230528-0169,2023-05-28,DE,München,Consumer,Furniture,Furnishings,Furnishings #7717,3,0.0,1160.15,208.6
+DE-20231213-0170,2023-12-13,DE,Hamburg,Home Office,Office Supplies,Art,Art #7512,5,0.0,76.56,15.32
+DE-20231121-0171,2023-11-21,DE,München,Small Business,Technology,Printers,Printers #8994,4,0.05,1481.54,168.55
+DE-20230829-0172,2023-08-29,DE,Dortmund,Consumer,Office Supplies,Labels,Labels #5708,3,0.0,106.2,22.2
+DE-20230411-0173,2023-04-11,DE,Stuttgart,Small Business,Furniture,Chairs,Chairs #2646,5,0.05,2904.06,495.3
+DE-20230217-0174,2023-02-17,DE,Leipzig,Consumer,Office Supplies,Storage,Storage #6314,1,0.0,28.19,5.7
+DE-20240317-0175,2024-03-17,DE,Berlin,Home Office,Technology,Copiers,Copiers #3385,4,0.0,2386.53,285.94
+DE-20230624-0176,2023-06-24,DE,Stuttgart,Corporate,Furniture,Furnishings,Furnishings #3868,2,0.0,669.86,118.65
+DE-20240524-0177,2024-05-24,DE,München,Corporate,Furniture,Furnishings,Furnishings #3344,1,0.0,367.8,64.9
+DE-20230919-0178,2023-09-19,DE,Stuttgart,Small Business,Technology,Copiers,Copiers #1153,1,0.15,625.46,63.39
+DE-20230317-0179,2023-03-17,DE,Leipzig,Corporate,Technology,Printers,Printers #8237,6,0.0,3437.84,411.31
+DE-20241207-0180,2024-12-07,DE,Frankfurt,Small Business,Furniture,Bookcases,Bookcases #5097,1,0.05,88.09,14.57
+DE-20240509-0181,2024-05-09,DE,Leipzig,Small Business,Technology,Accessories,Accessories #2747,1,0.0,439.81,50.81
+DE-20240811-0182,2024-08-11,DE,Stuttgart,Home Office,Technology,Printers,Printers #5847,3,0.15,933.69,94.65
+DE-20230109-0183,2023-01-09,DE,Köln,Home Office,Office Supplies,Art,Art #1803,4,0.0,117.87,25.73
+DE-20230824-0184,2023-08-24,DE,Bremen,Home Office,Furniture,Furnishings,Furnishings #6772,3,0.0,756.67,135.08
+DE-20241125-0185,2024-11-25,DE,Stuttgart,Home Office,Furniture,Tables,Tables #3240,1,0.0,77.6,12.01
+DE-20240327-0186,2024-03-27,DE,München,Home Office,Furniture,Chairs,Chairs #1546,3,0.05,1143.72,195.37
+DE-20231030-0187,2023-10-30,DE,Bremen,Consumer,Technology,Accessories,Accessories #6352,5,0.0,3000.81,358.23
+DE-20240706-0188,2024-07-06,DE,Düsseldorf,Corporate,Office Supplies,Binders,Binders #6994,4,0.0,164.72,34.45
+DE-20230921-0189,2023-09-21,DE,Dortmund,Corporate,Furniture,Bookcases,Bookcases #8894,5,0.0,1579.28,282.82
+DE-20240424-0190,2024-04-24,DE,Köln,Consumer,Furniture,Bookcases,Bookcases #2233,3,0.0,847.61,150.62
+DE-20230403-0191,2023-04-03,DE,Hamburg,Home Office,Office Supplies,Art,Art #7464,1,0.0,34.14,6.2
+DE-20240410-0192,2024-04-10,DE,Berlin,Consumer,Technology,Printers,Printers #7038,1,0.0,322.05,37.29
+DE-20230421-0193,2023-04-21,DE,Köln,Home Office,Furniture,Furnishings,Furnishings #4830,2,0.05,784.39,132.66
+DE-20240916-0194,2024-09-16,DE,Leipzig,Home Office,Office Supplies,Labels,Labels #4626,1,0.0,32.86,6.35
+DE-20241026-0195,2024-10-26,DE,München,Home Office,Furniture,Furnishings,Furnishings #7689,2,0.0,460.05,82.24
+DE-20231108-0196,2023-11-08,DE,München,Consumer,Office Supplies,Paper,Paper #9071,6,0.0,108.04,23.51
+DE-20240202-0197,2024-02-02,DE,München,Corporate,Office Supplies,Binders,Binders #8432,3,0.1,25.27,4.87
+DE-20240824-0198,2024-08-24,DE,Frankfurt,Small Business,Furniture,Supplies,Supplies #3531,3,0.0,731.8,130.4
+DE-20240922-0199,2024-09-22,DE,Düsseldorf,Small Business,Furniture,Chairs,Chairs #7686,3,0.0,1177.15,210.34
+DE-20240330-0200,2024-03-30,DE,Köln,Corporate,Office Supplies,Storage,Storage #8285,1,0.0,6.77,0.61
+DE-20240711-0201,2024-07-11,DE,Stuttgart,Home Office,Technology,Phones,Phones #6876,1,0.05,140.11,14.56
+DE-20230506-0202,2023-05-06,DE,Berlin,Corporate,Technology,Copiers,Copiers #8450,1,0.1,159.38,16.15
+DE-20230221-0203,2023-02-21,DE,München,Consumer,Furniture,Tables,Tables #6464,4,0.05,1260.54,215.01
+DE-20230312-0204,2023-03-12,DE,Stuttgart,Corporate,Office Supplies,Labels,Labels #4394,4,0.0,15.21,2.44
+DE-20230601-0205,2023-06-01,DE,Bremen,Home Office,Office Supplies,Binders,Binders #1046,2,0.0,50.89,11.19
+DE-20230628-0206,2023-06-28,DE,Köln,Home Office,Office Supplies,Binders,Binders #2801,3,0.0,118.68,25.13
+DE-20230901-0207,2023-09-01,DE,Berlin,Home Office,Office Supplies,Paper,Paper #6304,1,0.0,3.02,0.29
+DE-20230510-0208,2023-05-10,DE,Berlin,Consumer,Office Supplies,Storage,Storage #7897,3,0.0,106.2,22.04
+DE-20240404-0209,2024-04-04,DE,Dortmund,Small Business,Office Supplies,Paper,Paper #6931,2,0.0,6.18,1.3
+DE-20240530-0210,2024-05-30,DE,Dortmund,Small Business,Furniture,Chairs,Chairs #4629,3,0.15,1016.4,154.72
+DE-20240414-0211,2024-04-14,DE,Bremen,Home Office,Office Supplies,Labels,Labels #1510,1,0.0,32.21,5.1
+DE-20241203-0212,2024-12-03,DE,Berlin,Small Business,Technology,Machines,Machines #2768,3,0.0,279.16,32.69
+DE-20230324-0213,2023-03-24,DE,Leipzig,Consumer,Furniture,Furnishings,Furnishings #6277,5,0.0,2097.39,376.78
+DE-20231009-0214,2023-10-09,DE,Bremen,Corporate,Office Supplies,Paper,Paper #9984,1,0.0,14.46,2.39
+DE-20240409-0215,2024-04-09,DE,Frankfurt,Home Office,Technology,Printers,Printers #9282,1,0.0,174.9,19.81
+DE-20241101-0216,2024-11-01,DE,Bremen,Consumer,Technology,Phones,Phones #4522,6,0.1,2541.85,272.79
+DE-20231214-0217,2023-12-14,DE,Düsseldorf,Small Business,Technology,Accessories,Accessories #8430,1,0.1,242.36,25.68
+DE-20240313-0218,2024-03-13,DE,Düsseldorf,Home Office,Technology,Phones,Phones #6120,7,0.05,2100.09,237.5
+DE-20230310-0219,2023-03-10,DE,Köln,Small Business,Technology,Accessories,Accessories #2494,2,0.0,167.21,19.73
+DE-20240117-0220,2024-01-17,DE,München,Consumer,Office Supplies,Art,Art #3131,3,0.05,90.04,17.74
+DE-20241117-0221,2024-11-17,DE,Dortmund,Home Office,Office Supplies,Labels,Labels #3002,4,0.0,109.44,23.83
+DE-20231022-0222,2023-10-22,DE,Düsseldorf,Consumer,Technology,Machines,Machines #6119,1,0.0,484.29,56.98
+DE-20230608-0223,2023-06-08,DE,Frankfurt,Corporate,Office Supplies,Labels,Labels #8900,5,0.15,135.78,23.75
+DE-20230428-0224,2023-04-28,DE,Stuttgart,Home Office,Office Supplies,Storage,Storage #5564,2,0.0,77.13,16.25
+DE-20240915-0225,2024-09-15,DE,Bremen,Consumer,Office Supplies,Art,Art #5381,3,0.05,77.76,15.4
+DE-20231214-0226,2023-12-14,DE,Berlin,Home Office,Office Supplies,Storage,Storage #6751,3,0.0,85.02,18.4
+DE-20230313-0227,2023-03-13,DE,Berlin,Small Business,Office Supplies,Binders,Binders #3324,4,0.0,79.37,16.25
+DE-20240121-0228,2024-01-21,DE,Berlin,Corporate,Office Supplies,Labels,Labels #7878,2,0.15,49.12,8.9
+DE-20231116-0229,2023-11-16,DE,Leipzig,Home Office,Technology,Accessories,Accessories #6314,4,0.0,1311.75,155.43
+DE-20230609-0230,2023-06-09,DE,Bremen,Consumer,Furniture,Chairs,Chairs #3579,1,0.1,400.63,64.74
+DE-20240329-0231,2024-03-29,DE,Bremen,Home Office,Office Supplies,Paper,Paper #7947,1,0.0,11.2,1.12
+DE-20231007-0232,2023-10-07,DE,Leipzig,Small Business,Furniture,Furnishings,Furnishings #4531,1,0.0,177.55,30.89
+DE-20230424-0233,2023-04-24,DE,Dortmund,Small Business,Office Supplies,Storage,Storage #5640,1,0.0,29.29,5.55
+DE-20230216-0234,2023-02-16,DE,Bremen,Home Office,Technology,Printers,Printers #4612,1,0.1,438.87,46.02
+DE-20230729-0235,2023-07-29,DE,Düsseldorf,Consumer,Furniture,Chairs,Chairs #5938,3,0.05,1168.48,197.85
+DE-20231202-0236,2023-12-02,DE,Stuttgart,Home Office,Office Supplies,Storage,Storage #2965,1,0.15,23.9,2.48
+DE-20230513-0237,2023-05-13,DE,Berlin,Corporate,Technology,Machines,Machines #7229,3,0.0,935.62,111.06
+DE-20230315-0238,2023-03-15,DE,Dortmund,Home Office,Furniture,Tables,Tables #7505,4,0.0,258.25,45.8
+DE-20230321-0239,2023-03-21,DE,Berlin,Small Business,Technology,Phones,Phones #6129,1,0.0,325.03,37.8
+DE-20241227-0240,2024-12-27,DE,Bremen,Small Business,Technology,Printers,Printers #7843,1,0.1,665.49,71.09
+DE-20231129-0241,2023-11-29,DE,Köln,Consumer,Office Supplies,Art,Art #3815,1,0.15,23.85,2.85
+DE-20240323-0242,2024-03-23,DE,Bremen,Consumer,Technology,Copiers,Copiers #2734,3,0.0,666.36,79.66
+DE-20240620-0243,2024-06-20,DE,Stuttgart,Small Business,Technology,Printers,Printers #2288,4,0.0,1357.34,161.67
+DE-20231208-0244,2023-12-08,DE,Düsseldorf,Corporate,Technology,Copiers,Copiers #3754,3,0.0,447.08,52.32
+DE-20231224-0245,2023-12-24,DE,München,Corporate,Furniture,Chairs,Chairs #6752,2,0.05,174.0,29.13
+DE-20230920-0246,2023-09-20,DE,Hamburg,Corporate,Office Supplies,Paper,Paper #4232,1,0.1,23.19,4.56
+DE-20230701-0247,2023-07-01,DE,Hamburg,Consumer,Furniture,Tables,Tables #9095,1,0.15,123.54,16.91
+DE-20241128-0248,2024-11-28,DE,Leipzig,Small Business,Furniture,Supplies,Supplies #6295,5,0.0,2392.91,430.57
+DE-20240425-0249,2024-04-25,DE,Frankfurt,Consumer,Office Supplies,Art,Art #8245,1,0.0,9.54,1.63
+DE-20231227-0250,2023-12-27,DE,Köln,Consumer,Technology,Printers,Printers #9312,4,0.0,672.16,80.4
