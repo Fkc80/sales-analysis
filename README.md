@@ -56,7 +56,15 @@ sales-analysis/
 Author: Feyza
 ## Charts
 
-![Category Sales](results/charts/category_sales.png)
-![Top 10 Cities](results/charts/city_sales_top10.png)
-![Monthly Sales Trend](results/charts/monthly_sales_trend.png)
-![Category Profit](results/charts/category_profit.png)
+![Category Sales](results/charts/category_sales.png)  
+*Toplam satışların kategori bazında dağılımı*
+
+![Top 10 Cities](results/charts/city_sales_top10.png)  
+*En yüksek satış yapılan 10 şehir*
+
+![Monthly Sales Trend](results/charts/monthly_sales_trend.png)  
+*Aylık toplam satış trendi*
+
+![Category Profit](results/charts/category_profit.png)  
+*Kategorilere göre kâr dağılımı*
+
